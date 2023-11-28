@@ -2,6 +2,8 @@
 Digital Signatures Streamlit App
 
     pip install streamlit
+    
+    streamlit run app.py
 
 
 - Code creates random private key and matching public key
