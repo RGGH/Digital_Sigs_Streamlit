@@ -1,4 +1,4 @@
-# Digital_Sigs_Streamlit
+# Digital Signatures Streamlit App
 Digital Signatures Streamlit App
 
     pip install streamlit
