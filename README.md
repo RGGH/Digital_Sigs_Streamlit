@@ -1,7 +1,7 @@
 # Digital_Sigs_Streamlit
 Digital Signatures Streamlit App
 
-  pip install streamlit
+  `pip install streamlit
 
 
 - Code creates random private key and matching public key
